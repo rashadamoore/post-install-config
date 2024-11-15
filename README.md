@@ -42,7 +42,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ <h3><strong>Agent Roles and Permissions</strong></h3> 
+<ul><li>Assign roles to agents, defining what permissions they have within departments.</li><li>Go to <strong>Admin Panel &gt; Agents &gt; Roles</strong> to set up roles like <strong>Support Agent</strong>, <strong>Manager</strong>, etc., and customize permissions for each role.</li><li>Assign agents to roles under <strong>Admin Panel &gt; Agents &gt; Agents</strong>.</li></ul>
 </p>
 <br />
 
