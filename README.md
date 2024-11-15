@@ -53,7 +53,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<h3><strong>Configure SLA Plans</strong></h3>
+<ul><li>SLA Plans allow you to set response and resolution timelines for tickets.</li><li>Go to <strong>Admin Panel &gt; Manage &gt; SLA Plans</strong> to create SLA policies like <strong>High Priority (24 hours)</strong> or <strong>Low Priority (72 hours)</strong>.</li><li>Assign SLAs to departments or help topics as needed.</li></ul>
 </p>
 <br />
 <p>
