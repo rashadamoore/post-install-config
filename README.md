@@ -22,11 +22,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+<ol><li><p><strong>General Settings</strong>:</p><ul><li>Set helpdesk name, default email, timezone, and language.</li></ul></li><li><p><strong>Email Configuration</strong>:</p><ul><li><strong>System Emails</strong>: Add email addresses for support.</li><li><strong>Outgoing (SMTP)</strong>: Configure outgoing email server.</li><li><strong>Incoming (IMAP/POP)</strong>: Enable email fetching for automatic ticket creation.</li></ul></li><li><p><strong>Departments and Teams</strong>:</p><ul><li>Create departments (e.g., Support, Sales).</li><li>Set up teams for cross-department collaboration.</li></ul></li><li><p><strong>Help Topics</strong>: Define help topics for ticket categorization.</p></li><li><p><strong>SLA Plans</strong>: Set up SLA policies for response and resolution times.</p></li><li><p><strong>Ticket Settings</strong>:</p><ul><li>Customize ticket format, status, and client access options.</li></ul></li><li><p><strong>Agent Roles and Permissions</strong>:</p><ul><li>Define roles and assign permissions to agents.</li></ul></li><li><p><strong>User Authentication and Registration</strong>: Enable/disable registration, and set login requirements.</p></li><li><p><strong>Auto-Responder and Alerts</strong>:</p></li></ol>
 
 <h2>Configuration Steps</h2>
 
