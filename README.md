@@ -36,7 +36,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <ul><li><strong>Departments</strong>: Organize support requests by creating departments, like <strong>Support</strong>, <strong>Sales</strong>, or <strong>Billing</strong>.<ul><li>Go to <strong>Admin Panel &gt; Agents &gt; Departments</strong> to add new departments and assign department heads.</li></ul></li><li><strong>Teams</strong>: Create teams to handle tickets across departments if needed.<ul><li>Go to <strong>Admin Panel &gt; Agents &gt; Teams</strong> to set up teams and assign agents.</li></ul></li></ul>
 </p>
 <br />
-
 <p>
   
 ![Screenshot (14)](https://github.com/user-attachments/assets/a932440e-59d2-4c5e-8316-81ac68338dd4)
