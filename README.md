@@ -64,6 +64,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<h3><strong>Create Help Topics</strong></h3>
+<ul><li>Help Topics help categorize tickets, making it easier for users to submit specific types of requests.</li><li>Go to <strong>Admin Panel &gt; Manage &gt; Help Topics</strong> to add topics like <strong>Technical Support</strong>, <strong>Billing Question</strong>, or <strong>Account Assistance</strong>.</li></ul>
 </p>
 <br />
